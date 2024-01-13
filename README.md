@@ -56,7 +56,7 @@
 ###
 
 <br clear="both">
-![](https://raw.githubusercontent.com/x-imayank/x-imayank/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/x-imayank/Snake-grid/output/github-contribution-grid-snake.svg)
 
 ###
 </p>
