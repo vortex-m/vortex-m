@@ -11,11 +11,11 @@
 - 🌱 I’m currently learning **Competitive programming and DSA.**
 - 👯 I’m looking to collaborate on **Web Projects.**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/x-imayank?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abhinandanraj" height="30" width="40" /></a>
-- 💬 Ask me about **DSA, HTML, CSS and Javascript.**
+- 💬 Ask me about **MERN stack, Smart contacts using Blockchain.**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x-imayank&label=Profile%20views&color=0e75b6&style=flat" alt="x-imayank" /> </p>
 
-<p align="left"> <a href="https://twitter.com/im_mayankjha" target="blank"><img src="https://img.shields.io/twitter/follow/im_mayankjha?logo=twitter&style=for-the-badge" alt="im_mayankjha" /></a> </p>
+<p align="left"> <a href="https://twitter.com/im__mayank" target="blank"><img src="https://img.shields.io/twitter/follow/im__mayank?logo=twitter&style=for-the-badge" alt="im_mayank" /></a> </p>
 
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=x-imayank&theme=radical&hide_border=true"/>
@@ -31,7 +31,7 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
 
 <p align="left">
-<a href="https://twitter.com/im_mayankjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imMayank_22" height="30" width="40" /></a>
+<a href="https://twitter.com/im__mayank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imMayank_22" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/x-imayank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="x-imayank" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/x-imMayank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="x-imMayank" height="30" width="40" /></a>
 
