@@ -17,8 +17,14 @@
 
 <p align="left"> <a href="https://twitter.com/im__mayank" target="blank"><img src="https://img.shields.io/twitter/follow/im__mayank?logo=twitter&style=for-the-badge" alt="im_mayank" /></a> </p>
 
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+
+
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=x-imayank&theme=radical&hide_border=true"/>
+<a href="https://github.com/MKJ0019">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MKJ0019&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MKJ0019&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Tech Stack:**
@@ -50,15 +56,3 @@
 
 </p>
 
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
-
-
-
-![Mayank's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MKJ0019&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)
-
-<a href="https://github.com/MKJ0019">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=x-imayank&show_icons=true&theme=radical&count_private=true">
-  </a>
-  <a href="https://github.com/MKJ0019/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=x-imayank&layout=compact&theme=radical&langs_count=6" />
-  </a>
