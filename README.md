@@ -1,6 +1,7 @@
 
-<h1 align="center">Hello 👋, I'm Mayank 🎯️🚀️</h1>
-<h3 align="center">Hey it's me Mayank.I have a keen interest in DSA and Web Development and have a huge fascination with the inner workings of technology.</h3>
+<h1 align="center">👋 Hi there! I'm Mayank, a Full Stack Developer.  🎯️🚀️</h1>
+<h3 align="center">I'm passionate about creating dynamic and engaging web applications, and I thrive on solving complex problems with elegant solutions.</h3>
+
 
 
 <img align = "right" alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
@@ -17,13 +18,18 @@
 
 <p align="left"> <a href="https://twitter.com/im__mayank" target="blank"><img src="https://img.shields.io/twitter/follow/im__mayank?logo=twitter&style=for-the-badge" alt="im_mayank" /></a> </p>
 
+
+
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
 
 <p align="center">
+    
 <a href="https://github.com/MKJ0019">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MKJ0019&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MKJ0019&layout=compact&langs_count=8&theme=algolia"/>
+   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MKJ0019&show_icons=true" alt="MKJ0019" /> </p>
+<!--    <p align=center><a href="https://github.com/MKJ0019"><img src="https://i.imgur.com/MN69E9a.png" title="Technologies I use" align=center/></a></p> -->
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MKJ0019&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MKJ0019&layout=compact&langs_count=8&theme=algolia"/> -->
 </a>
 </p>
 
@@ -35,7 +41,7 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Node.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![Socket.io](https://img.shields.io/badge/-Socket.io-05122A?style=flat&logo=socket.io)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
