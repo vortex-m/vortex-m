@@ -45,7 +45,7 @@
 
 <p align="left">
 <a href="https://twitter.com/im__mayank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imMayank_22" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/x-imayank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="x-imayank" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/MKJ0019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="x-imayank" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/x-imMayank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="x-imMayank" height="30" width="40" /></a>
 
 </p>
@@ -54,11 +54,11 @@
 
 
 
-![Mayank's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=x-imayank&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)
+![Mayank's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MKJ0019&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)
 
-<a href="https://github.com/x-imayank">
+<a href="https://github.com/MKJ0019">
    <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=x-imayank&show_icons=true&theme=radical&count_private=true">
   </a>
-  <a href="https://github.com/x-imayank/github-readme-stats">
+  <a href="https://github.com/MKJ0019/github-readme-stats">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=x-imayank&layout=compact&theme=radical&langs_count=6" />
   </a>
