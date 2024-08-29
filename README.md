@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Competitive programming and DSA.**
 - 👯 I’m looking to collaborate on **Web Projects.**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/mkj0019?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abhinandanraj" height="30" width="40" /></a>
-- 💬 Ask me about **MERN stack, Smart contacts using Blockchain.**
+- 💬 Ask me about **MERN stack, App Development, Smart contacts using Blockchain.**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x-imayank&label=Profile%20views&color=0e75b6&style=flat" alt="x-imayank" /> </p>
 
