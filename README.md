@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hi there! I'm Mayank, a Software Developer.  🎯️🚀️</h1>
+<h1 align="center">👋 Hi there! I'm Mayank, Aspiring Software Developer.  🎯️🚀️</h1>
 <h3 align="center">I'm passionate about creating dynamic and engaging Applications, and I thrive on solving complex problems with elegant solutions.</h3>
 
 
