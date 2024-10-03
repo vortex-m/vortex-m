@@ -9,7 +9,7 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on **App Development.**
+- 🔭 I’m currently working on **App Development, Website Development and Competitive Coding.**
 - 👯 I’m looking to collaborate on **Open-source projects, Creative app ideas, or Unique web solutions.**
 - 🤝 I’m looking for help with exploring new technologies in **App development, Data Management.**
 - 🧑‍💻 I’m currently learning **Advanced mobile app frameworks like React Native.**
