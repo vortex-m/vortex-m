@@ -19,7 +19,7 @@
 
 <p align="left"><a href="https://twitter.com/_vortex_m" target="blank"><img src="https://img.shields.io/twitter/follow/_vortex_m?logo=twitter&style=for-the-badge" alt="im__mayank" /></a> </p>
 
-<em><b>Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda</b> :)</em>
+<p><em><b>Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda</b> :)</em></p>
 <a href="https://calendly.com/aeroweblabs/personal-query" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 ## 🌐 Socials:
